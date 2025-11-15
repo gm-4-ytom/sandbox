@@ -1,0 +1,19 @@
+{
+  "name": "@gm.4.ytom/sandbox",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gm-4-ytom/sandbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gm-4-ytom/sandbox/issues"
+  },
+  "homepage": "https://github.com/gm-4-ytom/sandbox#readme"
+}
